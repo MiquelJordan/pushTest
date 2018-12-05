@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "176764160026",
+    "firebase_url": "https://airbus-194416.firebaseio.com",
+    "project_id": "airbus-194416",
+    "storage_bucket": "airbus-194416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176764160026:android:7ceaf4f6db321660",
+        "android_client_info": {
+          "package_name": "com.airbusce.actuce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176764160026-qgkhkj8og9lel2v4ulg2un8v3hh8o55o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.airbusce.actuce",
+            "certificate_hash": "10dc2afc9432b95d30083d73573837e9eed8c5fb"
+          }
+        },
+        {
+          "client_id": "176764160026-1ak58tbs0tbmbdjbmc7cslldn6ceusph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPVnKF6B_xnqHAA37_WKjS0R4ywKm3tQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176764160026-1ak58tbs0tbmbdjbmc7cslldn6ceusph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176764160026-2da0g2vcr0vc6k9gi8lv87sevon0l0l6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.airbus-ce.actuce"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
